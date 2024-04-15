@@ -1,4 +1,9 @@
 public class Level1 {
+    public static void main(String[] args) {
+        System.out.println("Level 1 is ready");
+
+    }
+
 //    task1
 //    
 //    task2
@@ -8,9 +13,4 @@ public class Level1 {
 //    task4
 //
 //    task5
-
-    public static void main(String[] args) {
-        System.out.println("Level1 is ready");
-        
-    }
 }
